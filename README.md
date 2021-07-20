@@ -5,4 +5,4 @@ script googlesheet pour gérer un cv
 L'objet de ce depot est de développer un fichier googlesheet de gestion des expériences professionnels via des macros
 
 ## Formulaire de saisie
-![image](https://user-images.githubusercontent.com/8065982/126344918-7a83edcb-b712-48aa-9ffd-701eabcf1ba4.png {width=300px height=150px})
+![image](https://user-images.githubusercontent.com/8065982/126344918-7a83edcb-b712-48aa-9ffd-701eabcf1ba4.png  {width=300px height=150px})
