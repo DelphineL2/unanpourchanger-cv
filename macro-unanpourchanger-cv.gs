@@ -1,22 +1,22 @@
 function ajouter_experience() {
 // cellules formulaires 
 const FormEntrepriseCol = 4;
-const FormEntrepriseLig = 4;
+const FormEntrepriseLig = 5;
 const FormLieuCol = 6;
-const FormLieuLig = 4;
+const FormLieuLig = 5;
 const FormPosteCol = 4;
-const FormPosteLig = 7;
+const FormPosteLig = 9;
 const FormActiviteCol = 4;
-const FormActiviteLig = 9;
+const FormActiviteLig = 11;
 const FormTechnologieCol = 4;
-const FormTechnologieLig = 11;
+const FormTechnologieLig = 13;
 const FormApprisCol = 4;
-const FormApprisLig = 13;
+const FormApprisLig = 15;
 const FormQuitterCol = 4;
-const FormQuitterLig = 15;
-const FormDebutCol = 8;
+const FormQuitterLig = 17;
+const FormDebutCol = 4;
 const FormDebutLig = 7;
-const FormFinCol = 9;
+const FormFinCol = 6;
 const FormFinLig = 7;
 
 // cellules Experiences
